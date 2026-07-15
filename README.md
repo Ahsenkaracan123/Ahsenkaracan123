@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**Ahsenkarac# Hi there, I'm Ahsen! 👋
+# Hi there, I'm Ahsen! 👋
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ahsen-karacan/">
@@ -52,16 +49,4 @@ My academic journey is fueled by curiosity, particularly in how computational sy
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsenkaracan123&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" />
-</p>an123/Ahsenkaracan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
