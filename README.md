@@ -16,7 +16,7 @@
 
 ## 🔬 Academic & Research Aspirations
 
-I am a Computer Engineering student dedicated to pursuing long-term academic research at the intersection of **Computational Neuroscience, Brain-Computer Interfaces (BCI), and Cybersecurity**. My passion lies in combining computer engineering principles with interdisciplinary research to contribute to academic literature, advance neural data analysis, and build secure computational frameworks.
+I am a Computer Engineering student passionate about pursuing long-term academic research at the intersection of **Computational Neuroscience, Brain-Computer Interfaces (BCI), and Cybersecurity**. My passion lies in combining computer engineering principles with interdisciplinary research to contribute to academic literature, advance neural data analysis, and build secure computational frameworks.
 
 ---
 
